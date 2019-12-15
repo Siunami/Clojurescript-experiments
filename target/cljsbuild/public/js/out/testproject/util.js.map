@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/Siunami\/Desktop\/testproject\/target\/cljsbuild\/public\/js\/out\/testproject\/util.js","sources":["util.cljc?rel=1575922822066"],"lineCount":11,"mappings":";AAAA;;AAEA,4BAAA,5BAAMA,gEAAUC;AAAhB,AAAA;AAAA,mFAEGA;;AACD,qCAAA,9BAACC,4BAAQD","names":["testproject.util\/foo-cljc","x","cljs.core\/println"]}
